@@ -20,4 +20,4 @@ static unsigned int lines      = 0;
  * Characters not considered part of a word while deleting words
  * for example: " /?\"&[]"
  */
-static const char wordde2imiters[] = " ";
+static const char worddelimiters[] = " ";
